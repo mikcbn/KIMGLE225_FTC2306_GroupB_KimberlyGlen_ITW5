@@ -17,7 +17,7 @@ img {
 #Menu {
     margin-top: 20px;
     padding-top: 20px;
-    height: 250px;
+    height: 270px;
     width: 200px;
     background-color: #DDA77B;
 }
@@ -31,10 +31,9 @@ h5 {
     margin-top: 20px;
 }
 
-h1 {
-   font-family: 'Dancing Script', cursive;
+#Name {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
 h2 {
     background-color: #DDA77B;
 }
@@ -68,21 +67,26 @@ p {
 
 h1 {
     color: rgb(255, 236, 223);
-    font-family: cursive;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
 h2 {
-    font-family: bradly hand, cursive;
-    color: #000000;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: bisque;
 }
 
 h3 {
-    font-family: bradly hand, cursive;
+    font-family:'Trebuchet MS',
+        'Lucida Sans Unicode',
+        'Lucida Grande',
+        'Lucida Sans',
+        Arial,
+        sans-serif;
     color: rgb(10, 10, 10);
 }
 
 h5 {
-    font-family: bradly hand, cursive;
+    font-family:
     color: rgb(10, 10, 10);
 }
 
